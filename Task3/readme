@@ -1,0 +1,26 @@
+What This Project Does
+I built a simple library system where you can:
+
+Add books to the library
+
+Register people as library users
+
+Track when books are returned
+
+Search for books by title or author
+
+See what books each person has borrowed
+
+It's like a mini version of what libraries use to keep track of their books and who has them.
+
+The Files You'll Find
+I created 6 Java files:
+
+Book.java - This handles everything about a single book (title, author, whether someone borrowed it, etc.)
+
+User.java - This keeps track of library users and what books they have (users can only borrow 3 books max)
+
+Library.java - This is the FIle where the info of the library is created.
+
+LibrarySystem.java - This is file has the main method to run and access the application.
+
