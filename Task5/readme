@@ -1,0 +1,15 @@
+This project is a simple command-line application that lets users simulate basic bank operations. The program allows you to add users, deposit and withdraw money, check account balances, and review transaction history.
+
+What this program does: 
+
+Create user bank accounts with a account number and name.
+
+Deposit money into user accounts, with input validation.
+
+Withdraw money, enforcing balance checks before transactions.
+
+Check current balance for any user account.
+
+View transaction history (all deposits and withdrawals) for each account.
+
+All user interaction is from a simple, easy-to-navigate text-based menu.
