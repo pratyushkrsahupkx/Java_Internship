@@ -1,0 +1,13 @@
+It helps you manage employee information using Java and a database. It can add new employees, see all employees, update their details, and delete records.
+
+Add new employees to the database
+
+See a list of all employees
+
+Find a specific employee by their ID number
+
+Change employee information (like salary or department)
+
+Remove employees from the database
+
+Search for employees by department
