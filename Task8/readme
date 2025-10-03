@@ -1,0 +1,8 @@
+A console-based quiz application built in Java that tests programming knowledge through randomly selected questions. Perfect for students learning Java concepts or developers wanting to brush up on fundamentals.
+
+- **Random Question Selection**: Each quiz session randomly selects 5 questions from a bank of 18+ questions
+- **Multiple Categories**: Questions cover basic Java syntax, loops, OOP concepts, collections, and exception handling
+- **Real-time Feedback**: Immediate confirmation after each answer with correct answer explanations
+- **Score Tracking**: Live score updates and comprehensive performance analysis
+- **Input Validation**: Robust error handling prevents crashes from invalid user input
+- **Performance Analytics**: Detailed feedback with six achievement levels based on quiz results
